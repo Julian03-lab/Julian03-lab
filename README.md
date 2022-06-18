@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Julian03-lab/Julian03-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+Print ("Buenas, como le va hoy?")
+respuesta = input()
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Julian Fontana´s creative room
+
+- :neckbeard: Estudiante de Computacion en la Universidad Nacional de Rio Negro
+- :tophat: Futuro White Hat *(No habia emoji blanco)*
+- :video_game: Ex fanatico de Esports
+- :collision: Discutidor Aficionado
