@@ -1,4 +1,4 @@
-#Un poco sobre Julián Fontana (Osea yo)
+# Un poco sobre Julián Fontana (Osea yo)
 
 ## Visita mi portafolio!👇
 [![Portafolio Julian Fontana](https://i.ibb.co/Cv5Fwyz/portafolio.png)](https://julian-fontana.me)
@@ -8,7 +8,7 @@
 - :video_game: Ex fanatico de Esports
 - :collision: Discutidor Aficionado
 
-👉 Sobre Mi:
+## 👉 Sobre Mi:
 
 Soy Julián Fontana, nací en San Antonio Oeste, Rio Negro, Argentina y tras haber vivido toda mi vida en ese lugar, decidí trasladarme a San Carlos de Bariloche, donde me encuentro cursando la carrera de Ingeniería en Computación en la Universidad de Río Negro.
 
