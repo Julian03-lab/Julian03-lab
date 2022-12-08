@@ -1,7 +1,7 @@
 
 
-[![Portafolio Julian Fontana](https://i.ibb.co/Cv5Fwyz/portafolio.png)(https://julian-fontana.me)]
-
+###Visita mi portafolio!👇
+[![Portafolio Julian Fontana](https://i.ibb.co/Cv5Fwyz/portafolio.png)](https://julian-fontana.me)
 
 - :neckbeard: Estudiante de Computacion en la Universidad Nacional de Rio Negro
 - :tophat: Futuro White Hat *(No habia emoji blanco)*
