@@ -1,6 +1,6 @@
+#Un poco sobre Julián Fontana (Osea yo)
 
-
-###Visita mi portafolio!👇
+## Visita mi portafolio!👇
 [![Portafolio Julian Fontana](https://i.ibb.co/Cv5Fwyz/portafolio.png)](https://julian-fontana.me)
 
 - :neckbeard: Estudiante de Computacion en la Universidad Nacional de Rio Negro
