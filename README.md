@@ -2,6 +2,6 @@
 
 ## 👉 Sobre Mi:
 
-Me intereso en muchos ámbitos del desarrollo, como la web, IAs y videojuegos. Me asombra todo lo que estos entornos permiten en el día a día y además como no dejan de evolucionar. Busco nuevas formas de aprender y también de transmitir conocimiento.
+Desarrollador Front End apasionado por llevar a cabo diseños e ideas a la realidad, autodidacta con el propósito de aplicar mis conocimientos en estas áreas y abordar desafíos cotidianos. Cuento con experiencia en Next.js y React, demostrando una gran capacidad para resolver problemas de manera efectiva. Además, poseo una buena capacidad de comunicación y una notable responsabilidad en la gestión de proyectos.
 
 
